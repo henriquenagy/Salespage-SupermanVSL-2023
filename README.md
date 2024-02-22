@@ -1,6 +1,7 @@
 # Salespage for a Infoproduct
 <b>[CLICK HERE](https://henriquenagy.github.io/Salespage-SupermanVSL-2023/) TO SEE THE ENTIRE PAGE</b>
- A salespage created in 2023 for a client, which haves a VSL video in the first section, live counter and a checkout button, and the second section contains a facebook comments as social proof.
+
+<p> A salespage created in 2023 for a client, which haves a VSL video in the first section, live counter and a checkout button, and the second section contains a facebook comments as social proof.</p>
 
 <b>TOOLS USED: </b> 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
