@@ -1,11 +1,6 @@
-# Salespage-SupermanVSL-2023
- My first Salespage that i create to a client, it have a VSL video on first section, facebook comments in the second and a footer.
-
- # Sales page for a Infoproduct, which contains a VSL video and facebook depo
-
-<b>[CLICK HERE](https://henriquenagy.github.io/Salespage-workshopie-2023/) TO SEE THE ENTIRE PAGE</b>
-
-My second page made from scratch that a created for a client. This is a Landing page which invites the lead to a presencial workshop, by taking name, email and phone contact.
+# Salespage for a Infoproduct
+<b>[CLICK HERE](https://henriquenagy.github.io/Salespage-SupermanVSL-2023/) TO SEE THE ENTIRE PAGE</b>
+ A salespage created in 2023 for a client, which haves a VSL video in the first section, live counter and a checkout button, and the second section contains a facebook comments as social proof.
 
 <b>TOOLS USED: </b> 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -14,8 +9,8 @@ My second page made from scratch that a created for a client. This is a Landing 
 
 <p align="center"><b>DESKTOP VIEW</b></p>
 
-<img src="https://i.ibb.co/26vMg2N/Workshop-de-Luis-Heleno.png"/>
+<img src="https://i.ibb.co/dDjNRhD/Super-Bot-VSL.png"/>
 
 <p align="center"><b>MOBILE VIEW</b></p>
 
-<img src="https://i.ibb.co/vVDtb4Q/Workshop-de-Luis-Heleno-mobile.png"/>
+<img src="https://i.ibb.co/KxgNgRY/Super-bot.png"/>
