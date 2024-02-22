@@ -9,7 +9,7 @@
 
 <p align="center"><b>DESKTOP VIEW</b></p>
 
-<img src="https://i.ibb.co/dDjNRhD/Super-Bot-VSL.png"/>
+<img src="https://i.ibb.co/C14NGMS/salespage-with-vsl.jpg"/>
 
 <p align="center"><b>MOBILE VIEW</b></p>
 
